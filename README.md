@@ -36,7 +36,7 @@ The project addresses several econometric questions:
 The main R script is located in:
 
 ```text
-Code/AJR_analysis_clean_commented.R
+Code/R_Code.R
 ```
 
 The script is organised according to the structure of the assignment:
@@ -68,22 +68,6 @@ The dataset used in the analysis is based on Acemoglu, Johnson and Robinson (200
 
 ```text
 Data/AJR.xlsx
-```
-
-If the dataset is not publicly shareable, it should not be uploaded to the repository. In that case, users should add the dataset manually before running the script.
-
-## How to run the analysis
-
-Open R or RStudio and run the main script:
-
-```r
-source("Code/AJR_analysis_clean_commented.R")
-```
-
-If the script uses the `here` package, make sure the data path matches the folder name:
-
-```r
-AJR <- read.xlsx(here("Data", "AJR.xlsx"))
 ```
 
 ## Main reference
