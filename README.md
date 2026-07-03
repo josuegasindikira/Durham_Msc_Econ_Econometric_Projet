@@ -64,12 +64,8 @@ The empirical analysis uses:
 
 ## Data
 
-The dataset used in the analysis is based on Acemoglu, Johnson and Robinson (2001). To reproduce the results, place the dataset in the `Data/` folder as:
-
-```text
-Data/AJR.xlsx
+The dataset used in the analysis is based on Acemoglu, Johnson and Robinson (2001). 
 ```
-
 ## Main reference
 
 Acemoglu, D., Johnson, S., & Robinson, J. A. (2001).  
