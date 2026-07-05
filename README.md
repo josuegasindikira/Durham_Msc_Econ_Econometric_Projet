@@ -25,7 +25,7 @@ The project addresses several econometric questions:
 │   └── AJR_analysis_clean_commented.R
 ├── Data/
 │   └── AJR.xlsx
-├── Projet/
+├── Project/
 │   └── final_report.pdf
 ├── .gitignore
 └── README.md
